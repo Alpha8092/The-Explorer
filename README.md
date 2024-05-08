@@ -6,4 +6,11 @@
 
 ![appinventor ai_sudarshankumar070309 Browser](https://github.com/Alpha8092/The-Explorer/assets/152071712/5d74f415-a53a-49c0-89ac-584abd3d8182)
 
-Made By NN.
+
+
+Made By Aplha (All Files)
+
+
+
+
+Made By NN(ReadMe).
