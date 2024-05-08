@@ -8,6 +8,6 @@
 
 
 
-<b><i>Made By Aplha (All Files)</i>
-
+<b><i>Made By Alpha (All Files)</i>
+<br>
 <i>Made By NN (README.MD)</i></b>
